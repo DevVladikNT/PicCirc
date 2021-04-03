@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PicturesColoring:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PicturesColoring_jar</output-path>
+    <root id="archive" name="PicturesColoring.jar">
+      <element id="module-output" name="PicturesColoring" />
+    </root>
+  </artifact>
+</component>
